@@ -31,4 +31,3 @@ please see [the setup instructions]({{ page.root }}/setup/).
 >     and enhancements to this documentation in this one.
 {: .checklist}
 
-{% include links.md %}
